@@ -10,11 +10,11 @@ Experienced in statistical modeling, data storytelling, and ETL processes.
 
 ## Table of Contents
 
-   - [About](https://github.com/shaharupal/Portfolio/edit/main/README.md#about)
+   - [About](https://github.com/shaharupal/Portfolio/blob/main/README.md#about)
 
-   - [Experience](https://github.com/shaharupal/Portfolio/edit/main/README.md#experience)
+   - [Experience](https://github.com/shaharupal/Portfolio/blob/main/README.md#experience)
 
-   - [Projects](https://github.com/shaharupal/Portfolio/edit/main/README.md#projects)
+   - [Projects](https://github.com/shaharupal/Portfolio/blob/main/README.md#projects)
 
 ## Experience
 ### Junior Data Analyst | MTechZilla | May 2023 - Dec 2024
