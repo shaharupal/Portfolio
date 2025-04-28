@@ -7,7 +7,14 @@ Data Analyst |  3+ years of combined experience in Data and Supply Chain Industr
 Holding a Bachelor's in Mathematics, skilled in SQL, Python, Excel, Power BI, Tableau, and SAP ERP. 
 Experienced in statistical modeling, data storytelling, and ETL processes.
 
-   
+
+## Table of Contents
+
+   - [About](https://github.com/shaharupal/Portfolio/edit/main/README.md#about)
+
+   - [Experience](https://github.com/shaharupal/Portfolio/edit/main/README.md#experience)
+
+   - [Projects](https://github.com/shaharupal/Portfolio/edit/main/README.md#projects)
 
 ## Experience
 ### Junior Data Analyst | MTechZilla | May 2023 - Dec 2024
