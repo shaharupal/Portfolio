@@ -37,25 +37,32 @@ Experienced in statistical modeling, data storytelling, and ETL processes.
 
 ## Projects
 
-   [Project 1: E-Commerce Customer Behavior (ECBA)](https://github.com/shaharupal/portfolio/blob/main/E-Commerce%20Behavior%20Analysis%20(ECBAP)%20(1).pdf)
+   [Project 1: E-Commerce Customer Behavior (ECBA)](https://public.tableau.com/views/E-CommerceBehaviorAnalysisECBAP/E-CommerceCustomerBehavior?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
     <Data was taken from Public source>
    - Analyzed Key areas of focus :
-       1. Evaluating ad performance (CPC and ad spend efficiency)
-       2. Analyzing the impact of discounts on customer purchasing behavior
-       3. Segmenting customer data to identify key patterns and trends
+
+      1. Ad Performance Evaluation:
+         Focused on key metrics like Cost-Per-Click (CPC) and ad spend efficiency to identify areas of improvement for paid campaigns.
+
+      2. Discount Impact on Purchasing Behavior:
+         Investigated how varying discount levels influence customer buying decisions, helping to tailor future promotional strategies.
+
+      3. Customer Segmentation Analysis:
+         Delved into customer data to uncover important patterns and trends, providing actionable insights for personalized marketing.
+ 
    - The analysis focused on understanding customer behavior to inform better marketing decisions
 
       Skills: data cleaning, data analysis, Stastical Analysis, data visualization.                                                                                                     
       Technology: Tableau, SQL, Excel, CRM ( Customer Relationship Management )
 
-[Project 2: ChemicalCorp Sales Analysis](https://public.tableau.com/views/ChemicalCorpSalesAnalysis/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+   [Project 2: ChemicalCorp Sales Analysis](https://public.tableau.com/views/ChemicalCorpSalesAnalysis/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
    Analysis ChemCorp's declining market share due to competition and emerging technologies
 
-  Overview: 
+   Overview: 
 
-  Analyzed ChemCorp’s declining market share in the industry, considering both competitive pressures and the impact of emerging technology.   
+   Analyzed ChemCorp’s declining market share in the industry, considering both competitive pressures and the impact of emerging technology.   
 
    [Key Analysis Areas]:
 
@@ -75,4 +82,6 @@ Experienced in statistical modeling, data storytelling, and ETL processes.
 
        -  Develop a unique value proposition to stand out in a crowded market.
        -  Explore niche markets or underserved customer segments to expand ChemCorp's reach.
+
+   Skills: data cleaning, data analysis, Stastical Analysis, data visualization, finacial analysis, Tableau, MS Excel    
     
